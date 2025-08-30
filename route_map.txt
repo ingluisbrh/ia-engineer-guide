@@ -1,0 +1,123 @@
+Ws and generative AI.
+
+Explore Hugging Face models.
+
+Day 3–4:
+
+Mini-project: Use a pretrained model to generate text or answer questions.
+
+Day 5–6:
+
+Document all mini-projects clearly on GitHub with explanations and code.
+
+Write a short summary for each project: problem, approach, results.
+
+Day 7:
+
+Prepare your application:
+
+Emphasize strong Python skills.
+
+Highlight completed ML/DL mini-projects.
+
+Show willingness and rapid learning ability in AI/ML.
+
+✅ End Result:
+
+2–3 ML projects + 1 small DL project + 1 mini LLM project on GitHub.
+
+Practical knowledge of ML algorithms, preprocessing, PyTorch basics, MLOps concepts.
+
+Ready to confidently apply for this entry-level AI/ML role.t fundamentals.
+
+Day 1–2:
+
+Practice data cleaning: handle missing values, outliers, and inconsistent data.
+
+Mini-project: Clean a messy dataset and save it ready for modeling.
+
+Day 3–4:
+
+Learn basic version control with Git: commits, branches, push to GitHub.
+
+Mini-project: Upload previous projects to GitHub with clear README.
+
+Day 5–6:
+
+Learn Docker basics: containerize a Python script or ML model.
+
+Mini-project: Containerize your small ML or DL model.
+
+Day 7:
+
+Learn basic cloud ML services overview: AWS Sagemaker, GCP AI Platform, Azure ML.
+
+No hands-on yet, just understanding deployment possibilities.
+
+Week 4 – Optional: Generative AI / LLM Exposure & Portfolio
+
+Goal: Show awareness of modern AI and create a small portfolio.
+
+Day 1–2:
+
+Learn basics of LLMndling missing data.
+
+Mini-project: Create a preprocessing pipeline for a dataset.
+
+Week 2 – Intro to Deep Learning (DL Basics)
+
+Goal: Learn neural networks and implement a small model.
+
+Day 1–2:
+
+Learn neural network concepts: layers, neurons, activations, loss functions.
+
+Install and learn PyTorch basics.
+
+Day 3–4:
+
+Build a simple feedforward network in PyTorch for MNIST digits or another small dataset.
+
+Train and evaluate the model.
+
+Day 5:
+
+Compare results to scikit-learn models for the same dataset.
+
+Day 6–7:
+
+Learn simple hyperparameter tuning: learning rate, epochs, batch size.
+
+Mini-project: Optimize your small neural network and document results.
+
+Week 3 – Data Preprocessing & MLOps Basics
+
+Goal: Prepare data professionally and learn model deploymeneek 1 – Core Machine Learning (ML Foundations)
+
+Goal: Understand ML algorithms, preprocessing, and evaluation.
+
+Day 1–2:
+
+Learn supervised vs. unsupervised learning.
+
+Study regression and classification basics.
+
+Mini-project: Load a small dataset (e.g., Iris) and explore it with pandas.
+
+Day 3–4:
+
+Implement linear regression and logistic regression using scikit-learn.
+
+Understand train/test split and evaluation metrics (accuracy, precision, recall).
+
+Mini-project: Predict target variable for a dataset (e.g., Boston Housing, Titanic).
+
+Day 5:
+
+Learn decision trees, k-NN, and random forest basics.
+
+Mini-project: Train a decision tree on the Iris dataset and evaluate performance.
+
+Day 6–7:
+
+Feature engineering: scaling, encoding categorical variables, ha
